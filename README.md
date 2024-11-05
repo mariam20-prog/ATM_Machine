@@ -29,5 +29,5 @@ This repository contains an interactive command-line project:
  * control_flow_atm.py: contains the ATM Machine simulation.
 
  ## Conslusion
- This ATM Application serves as a practical example of object-oriented programming and interactive user interfaces in Python. It provides a foundation for futher enhancements, such as integrating with a database for user data management or expanding functionalities to include more banking features.
+ This ATM Machine Simulator provides a simple yet effective way for users to understand basic banking operations through a simulated environment. It serves as a foundational project for those looking to enhance their Python programming skills and learn about user interaction in applications.
 # ATM_Machine
